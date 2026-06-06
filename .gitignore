@@ -15,3 +15,6 @@ __pycache__/
 test_class_login.py
 test_first.py
 test_fixtures.py
+
+#allure results
+allure-results/
